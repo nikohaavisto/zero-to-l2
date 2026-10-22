@@ -3,6 +3,7 @@ ZERO TO L2 TECHNICIAN - installable app
 
 Try it right now (Mac): double-click index.html. It opens in your browser and works offline.
 
+
 Install it as an app on iPhone and Mac (one-time setup, about 10 minutes):
 
 1. Put this folder online for free with GitHub Pages
